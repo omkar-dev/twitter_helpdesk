@@ -62,7 +62,7 @@
     "@commitlint/config-angular": "^7.1.2",
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^1.1.2",
-    "standard-version": "^4.4.0"
+    "standard-version": "^8.0.1"
   },
   "description": "An Ionic project Based Twitter helpdesk to connect their Twitter Handle.",
   "config": {
